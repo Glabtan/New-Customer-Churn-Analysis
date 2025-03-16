@@ -1,6 +1,42 @@
 # Customer Churn Analysis
 
 ## Table of Contents
+Dataset Overview
+Data Cleaning Steps
+
+a. Removed Unnecessary Columns
+
+b. Handled Categorical Data
+
+c. Checked for Missing Values
+
+d. Analyzed Numerical Columns
+
+Data Analysis Insights
+
+a. Customer Tenure
+
+b. Monthly and Total Charges
+
+c. Churn Rate
+
+Churn Prediction Analysis
+
+a. Key Factors Influencing Churn
+
+b. Predictive Modeling Approach
+
+Recommendations to Address Customer Churn
+
+a. Improve Customer Retention Strategies
+
+b. Enhance Customer Support
+
+c. Adjust Pricing and Contract Options
+
+d. Optimize Service Offerings
+
+e. Leverage Data Analytics
 
 Dataset Overview
 
