@@ -1,9 +1,9 @@
 # Customer Churn Analysis
 
 ## Table of Contents
-Dataset Overview
-Data Cleaning Steps
+[Dataset Overview](## Dataset Overview)
 
+Data Cleaning Steps
 a. Removed Unnecessary Columns
 
 b. Handled Categorical Data
