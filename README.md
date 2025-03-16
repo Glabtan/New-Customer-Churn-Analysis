@@ -2,6 +2,7 @@
 
 ## Table of Contents
 [Dataset Overview](#Dataset-Overview)
+
 a. Removed Unnecessary Columns
 
 b. Handled Categorical Data
