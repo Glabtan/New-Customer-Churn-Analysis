@@ -2,6 +2,13 @@
 
 ## Table of Contents
 [Dataset Overview](#Dataset-Overview)
+a. Removed Unnecessary Columns
+
+b. Handled Categorical Data
+
+c. Checked for Missing Values
+
+d. Analyzed Numerical Columns
 
 [Data Cleaning Steps](#Data-Cleaning-Steps)
 
