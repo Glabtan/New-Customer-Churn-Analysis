@@ -3,78 +3,14 @@
 ## Table of Contents
 [Dataset Overview](#Dataset-Overview)
 
-Data Cleaning Steps
-a. Removed Unnecessary Columns
+[Data Cleaning Steps](#Data-Cleaning-Steps)
 
-b. Handled Categorical Data
+[Data Analysis Insights](#Data-Analysis-Insights)
 
-c. Checked for Missing Values
+[Churn Prediction Analysis](#Churn-Prediction-Analysis)
 
-d. Analyzed Numerical Columns
+[Recommendations to Address Customer Churn](#Recommendations-to-Address-Customer-Churn)
 
-Data Analysis Insights
-
-a. Customer Tenure
-
-b. Monthly and Total Charges
-
-c. Churn Rate
-
-Churn Prediction Analysis
-
-a. Key Factors Influencing Churn
-
-b. Predictive Modeling Approach
-
-Recommendations to Address Customer Churn
-
-a. Improve Customer Retention Strategies
-
-b. Enhance Customer Support
-
-c. Adjust Pricing and Contract Options
-
-d. Optimize Service Offerings
-
-e. Leverage Data Analytics
-
-Dataset Overview
-
-## Data Cleaning Steps
-
-a. Removed Unnecessary Columns
-
-b. Handled Categorical Data
-
-c. Checked for Missing Values
-
-d. Analyzed Numerical Columns
-
-## Data Analysis Insights
-
-a. Customer Tenure
-
-b. Monthly and Total Charges
-
-c. Churn Rate
-
-## Churn Prediction Analysis
-
-a. Key Factors Influencing Churn
-
-b. Predictive Modeling Approach
-
-## Recommendations to Address Customer Churn
-
-a. Improve Customer Retention Strategies
-
-b. Enhance Customer Support
-
-c. Adjust Pricing and Contract Options
-
-d. Optimize Service Offerings
-
-e. Leverage Data Analytics
 
 1. ## Dataset Overview
 
@@ -160,7 +96,7 @@ Logistic Regression (Excel Solver) – Used Excel’s Solver to perform logistic
 
 Charts & Dashboards – Developed visual representations of churn drivers using Excel charts to track trends and identify high-risk customers.
 
-5. Recommendations to Address Customer Churn
+5. ## Recommendations to Address Customer Churn
 
 a. Improve Customer Retention Strategies
 
